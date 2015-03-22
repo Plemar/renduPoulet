@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 940c6c1175b2d234ca03a264f61cf3fe
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: bec
+    100002: Bone002
+    100004: Bone003
+    100006: Bone005
+    100008: Bone006
+    100010: Bone008
+    100012: Bone009
+    100014: Bone011
+    100016: Bone012
+    100018: CorpsPoulet
+    100020: Crete
+    100022: oeilDroit
+    100024: oeilGauche
+    100026: osDerriere
+    100028: osDevant
+    100030: osPatteDroite
+    100032: osPatteGauche
+    100034: PapatteDroite
+    100036: PapatteGauche
+    100038: //RootNode
+    400000: bec
+    400002: Bone002
+    400004: Bone003
+    400006: Bone005
+    400008: Bone006
+    400010: Bone008
+    400012: Bone009
+    400014: Bone011
+    400016: Bone012
+    400018: CorpsPoulet
+    400020: Crete
+    400022: oeilDroit
+    400024: oeilGauche
+    400026: osDerriere
+    400028: osDevant
+    400030: osPatteDroite
+    400032: osPatteGauche
+    400034: PapatteDroite
+    400036: PapatteGauche
+    400038: //RootNode
+    4300000: PapatteGauche
+    4300002: PapatteDroite
+    4300004: oeilGauche
+    4300006: oeilDroit
+    4300008: Crete
+    4300010: CorpsPoulet
+    4300012: bec
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: bec
+    13700002: CorpsPoulet
+    13700004: Crete
+    13700006: oeilDroit
+    13700008: oeilGauche
+    13700010: PapatteDroite
+    13700012: PapatteGauche
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bec
+        weight: 1
+      - path: CorpsPoulet
+        weight: 1
+      - path: Crete
+        weight: 1
+      - path: oeilDroit
+        weight: 1
+      - path: oeilGauche
+        weight: 1
+      - path: osDerriere
+        weight: 1
+      - path: osDerriere/Bone011
+        weight: 1
+      - path: osDerriere/Bone011/Bone012
+        weight: 1
+      - path: osDevant
+        weight: 1
+      - path: osDevant/Bone008
+        weight: 1
+      - path: osDevant/Bone008/Bone009
+        weight: 1
+      - path: osPatteDroite
+        weight: 1
+      - path: osPatteDroite/Bone002
+        weight: 1
+      - path: osPatteDroite/Bone002/Bone003
+        weight: 1
+      - path: osPatteGauche
+        weight: 1
+      - path: osPatteGauche/Bone005
+        weight: 1
+      - path: osPatteGauche/Bone005/Bone006
+        weight: 1
+      - path: PapatteDroite
+        weight: 1
+      - path: PapatteGauche
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
